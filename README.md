@@ -2,7 +2,6 @@
 
 <h3 align="center">- 📋 Just released: Discord Bot Base</h3>
 <h3 align="center">- 📫 Reach me on Discord : Tomson#2445</h3>
-<h3 align="center">- 🔭 I’m currently learning <b>C++</b></h3>
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
