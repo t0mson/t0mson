@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
 <h3 align="center">- 📋 Just released: Discord Bot Base</h3>
-<h3 align="center">- 📫 Reach me on Discord : Tomson#2445</h3>
+<h3 align="center">- 📫 Reach me on Discord : Tomson#1337</h3>
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
