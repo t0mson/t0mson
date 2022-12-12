@@ -23,12 +23,6 @@
     width="40"
     height="40"
   />
-  <img
-    src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
 </p>
 <hr />
 
