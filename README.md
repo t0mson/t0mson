@@ -17,6 +17,12 @@
     width="40"
     height="40"
   />
+    <img
+    src="https://img.icons8.com/color/512/mysql-logo.png"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
   <img
     src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"
     alt="nodejs"
